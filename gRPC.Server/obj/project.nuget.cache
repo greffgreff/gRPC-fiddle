@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "zH+XAySGBVZJaSpwmgwn4T2rWrmfT90RkFYDP2V+McJJAYcG6I4kYbNvSjHKie2dQVCp3ZuePVFuOqdez6/W/g==",
+  "success": true,
+  "projectFilePath": "/Users/chandlergreff/RiderProjects/gRPC/gRPC.Server/gRPC.Server.csproj",
+  "expectedPackageFiles": [
+    "/Users/chandlergreff/.nuget/packages/google.protobuf/3.22.1/google.protobuf.3.22.1.nupkg.sha512",
+    "/Users/chandlergreff/.nuget/packages/grpc.core/2.46.6/grpc.core.2.46.6.nupkg.sha512",
+    "/Users/chandlergreff/.nuget/packages/grpc.core.api/2.46.6/grpc.core.api.2.46.6.nupkg.sha512",
+    "/Users/chandlergreff/.nuget/packages/grpc.tools/2.53.0/grpc.tools.2.53.0.nupkg.sha512",
+    "/Users/chandlergreff/.nuget/packages/microsoft.aspnetcore.openapi/7.0.4/microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
+    "/Users/chandlergreff/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/chandlergreff/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/chandlergreff/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/chandlergreff/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/chandlergreff/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/chandlergreff/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/chandlergreff/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

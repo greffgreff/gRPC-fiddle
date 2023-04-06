@@ -1,0 +1,2 @@
+obj/Debug/net7.0/Protos/FileUpload.cs \
+obj/Debug/net7.0/Protos/FileUploadGrpc.cs: Protos/FileUpload.proto

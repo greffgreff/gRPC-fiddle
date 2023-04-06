@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option csharp_namespace = "gRPC.Client";
+
+service FileUploading {
+  rpc Upload (File) returns (Response);
+}
+
+message File {
+  bytes data = 1;
+}
+
+message Response {
+  string message = 1;
+}
